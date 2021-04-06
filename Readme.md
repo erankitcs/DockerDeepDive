@@ -7,3 +7,7 @@ This repository is created for deep dive Docker fundamentals.
 - Storage
 - Working with Dockerfile
 - Building and Distributing the Image.
+- Docker Compose
+- Secrets management in Docker
+- Portainer
+- Docker Swarm
